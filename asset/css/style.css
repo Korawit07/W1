@@ -1,0 +1,17 @@
+body {
+    padding: 6px;
+    font-family: sans-serif;
+}
+
+h1{
+    font-weight: bold;
+    color: rgb(23, 155, 144);
+}
+
+  .text{
+    font-size: 16pt;
+}
+svg{
+    width: 15px;
+    height: 15px;
+}
